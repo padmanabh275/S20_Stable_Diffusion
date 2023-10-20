@@ -1,6 +1,5 @@
-<thumbs-up>
-<snoopy>
-<boot-mjstyle>
+<birb-style>
 <ronaldo>
 <pop-art>
-
+<threestooges>
+<Marbled-painting>
